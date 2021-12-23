@@ -29,7 +29,7 @@ pip3 install numpy
 pip3 install opencv-python
 ```
 ```sh
-pip3 install pickle
+pip3 install pickle-mixin
 ```
 
 To display a small instruction about the program, type *-h* or *-help*.
