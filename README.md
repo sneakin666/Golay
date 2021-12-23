@@ -1,8 +1,8 @@
 # Encode and decode images with binary Golay code
 <div align="center">
 
-<img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/pettyderf/CRC">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/pettyderf/CRC">
+<img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/sneakin666/Golay">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sneakin666/Golay">
   
 [Encoding image](#encoding-image) •  
 [Decoding image](#decoding-image) • 
