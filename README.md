@@ -9,7 +9,7 @@
   
   </div>
   
-  #
+#
   
 For this software implementation to work, 2 libraries are needed: *docopt*, *matplotlib*, *numpy*, *opencv* and *pickle*.
 
