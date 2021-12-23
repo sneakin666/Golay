@@ -224,7 +224,7 @@ def decoding():
     fig = plt.imshow(outpixels)
     fig.axes.get_xaxis().set_visible(False)
     fig.axes.get_yaxis().set_visible(False)
-    plt.savefig(path2)
+    plt.savefig(path2, bbox_inches='tight')
 
 if args['--encoding']:
     encoding()
