@@ -38,7 +38,7 @@ To display a small instruction about the program, type *-h* or *-help*.
 python Golay.py --help
 ```
 
-![](pic/1.jpg)
+![](pic/1.png)
 
 # Encoding image
 
@@ -50,7 +50,7 @@ python Golay.py --encoding <path> <path2>
 ```
 For example:
 
-![](pic/2.jpg)
+![](pic/2.png)
 
 After using this command in suck path, which was typed in <path2> will be created .pckl file
 
@@ -63,7 +63,7 @@ python Golay.py --decoding <path> <path2>
 ```
 For example:
 
-![](pic/3.jpg)
+![](pic/3.png)
   
 In <path> should be typed path to .plck file
 The result of this command will be image file
